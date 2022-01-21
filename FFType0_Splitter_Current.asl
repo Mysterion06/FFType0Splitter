@@ -1,3 +1,6 @@
+//Credits Mysterion_06_
+//Commissioner AedinBelmont
+
 state("fftype0hd")
 {
     byte ngKills:     0x65798C;       //NG Kills
